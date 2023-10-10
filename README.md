@@ -5,9 +5,9 @@
 - 🔭 Atualmente estou trabalhando com BackEnd
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e aprofundando meu conhecimento em tecnologias de backend.
 
-![Rafael Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaandradde&show_icons=true&theme=neon)
+![Rafael Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaandradde&show_icons=true&theme=tokyonight)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=neon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=tokyonight"/>
 
 ## Tecnologias 
 
