@@ -4,7 +4,7 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e aprofundando meu conhecimento em tecnologias de backend.
 
 ![Rafael Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaandradde&show_icons=true&theme=dracula)
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=dracula"/>
 
 ## Tecnologias 
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="postman" height="28" width="70" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
   
   ## Contato 
