@@ -1,4 +1,6 @@
-## Olá, eu sou Rafael Andrade. Bem-vindo(a)! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0DB8B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Rafael+Andrade+Welcome!👋;Olá,+eu+sou+Rafael+Andrade+Bem-vindo(a)!👋)](https://git.io/typing-svg)
+##
 
 - 🔭 Atualmente estou trabalhando com BackEnd
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e aprofundando meu conhecimento em tecnologias de backend.
