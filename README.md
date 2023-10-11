@@ -1,13 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D510F5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Rafael+Andrade+Welcome!👋;Olá,+eu+sou+Rafael+Andrade+Bem-vindo(a)!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B86FEB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Rafael+Andrade+Welcome!👋;Olá,+eu+sou+Rafael+Andrade+Bem-vindo(a)!👋)](https://git.io/typing-svg)
 ##
 
 - 🔭 Atualmente estou trabalhando com BackEnd
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e aprofundando meu conhecimento em tecnologias de backend.
 
-![Rafael Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaandradde&show_icons=true&theme=tokyonight)
+![Rafael Andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaandradde&show_icons=true&theme=nightowl)
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaandradde&layout=compact&langs_count=16&theme=nightowl"/>
 
 ## Tecnologias 
 
